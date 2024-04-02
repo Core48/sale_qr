@@ -7,7 +7,7 @@
         <field name="arch" type="xml">
 
             <field name="user_id" position="after">
-                <field name="qr" widget="image" />
+                <field name="qr" widget="image" options="{'size': [150, 150]}" />
                 
             </field>
         </field>
