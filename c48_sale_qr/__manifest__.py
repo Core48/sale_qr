@@ -4,6 +4,7 @@
     "summary": """Core48 Sale Order QR""",
     'author': "Core48",
     'website': "https://core48.com",
+    'license': 'LGPL-3',
     'category': 'sale',
     "version": "17.0.0.1",
     "depends": [
