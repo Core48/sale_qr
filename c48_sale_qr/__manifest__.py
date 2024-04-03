@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Core48 Sale QR",
-    "summary": """Core48 Sale Order QR""",
+    "name": "Sale Order QR",
+    "summary": """Sale Order and Quotation QR""",
     'author': "Core48",
     'website': "https://core48.com",
     'license': 'LGPL-3',
     'category': 'sale',
-    "version": "17.0.0.1",
+    "version": "17.0.0.2",
     "depends": [
         'sale_management'
             ],
