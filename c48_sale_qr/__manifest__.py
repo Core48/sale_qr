@@ -6,7 +6,7 @@
     'website': "https://core48.com",
     'license': 'LGPL-3',
     'category': 'sale',
-    "version": "17.0.0.2",
+    "version": "17.0.0.3",
     "depends": [
         'sale_management'
             ],
